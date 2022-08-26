@@ -164,7 +164,6 @@ Android
 -->
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=get_weibo_hot)
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=mmall)
-![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=genshin-impact-helper-back)
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=619)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesixonenine&theme=vue)
