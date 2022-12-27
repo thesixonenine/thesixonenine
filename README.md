@@ -161,10 +161,10 @@ Android
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesixonenine&layout=compact&hide=javascript,html,Stylus,Nunjucks)
 <!--
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=daily-py&show_owner=true)
--->
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=get_weibo_hot)
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=mmall)
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=619)
+-->
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesixonenine&theme=vue)
 
