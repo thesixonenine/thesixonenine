@@ -15,7 +15,7 @@ Hosted in [GitHub Pages](https://thesixonenine.github.io)
 <p align="left">
 <img src="https://img.shields.io/badge/Java-7%208%2011%2017-brightgreen?style=flat&labelColor=ffffff&logo=Java&logoColor=007396"/>
 <img src="https://img.shields.io/badge/Python-3.9+-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Go-1.17.3-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Golang-1.19.4-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-1.0-brightgreen?style=flat&labelColor=ffffff&logo=GNU%20Bash&logoColor=4EAA25"/>
 <img src="https://img.shields.io/badge/PowerShell-7.2.3-brightgreen?style=flat&labelColor=ffffff&logo=PowerShell&logoColor=5391FE"/>
 <img src="https://img.shields.io/badge/JavaScript-ES2015-brightgreen?style=flat&labelColor=ffffff&logo=JavaScript&logoColor=F7DF1E"/>
