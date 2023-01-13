@@ -13,6 +13,7 @@ Hosted in [GitHub Pages](https://thesixonenine.github.io)
 ## 👄 Language
 
 <p align="left">
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthesixonenine&logo=leetcode&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Java-7%208%2011%2017-brightgreen?style=flat&labelColor=ffffff&logo=Java&logoColor=007396"/>
 <img src="https://img.shields.io/badge/Python-3.9+-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Golang-1.19.4-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
