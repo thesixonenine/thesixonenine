@@ -7,7 +7,7 @@ Hosted in [GitHub Pages](https://thesixonenine.github.io)
 
 ## 🎮 Genshin Impact\(^o^)
 
-![Genshin Impact](https://genshin-card.getloli.com/rand/11629047.png)
+![Genshin Impact](https://genshin-card.himiku.com/rand/11629047.png)
 
 
 ## 👄 Language
