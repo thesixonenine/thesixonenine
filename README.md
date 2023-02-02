@@ -4,34 +4,36 @@
 
 Hosted in [GitHub Pages](https://thesixonenine.github.io)
 
-
+<!--
 ## 🎮 Genshin Impact\(^o^)
 
 ![Genshin Impact](https://genshin-card.himiku.com/rand/11629047.png)
+-->
+
+## 🤞 LeetCode
+
+[![LeetCode user thesixonenine](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthesixonenine&logo=leetcode&logoColor=yellow)](https://leetcode.com/thesixonenine/)
 
 
 ## 👄 Language
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-7%208%2011%2017-brightgreen?style=flat&labelColor=ffffff&logo=Java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/Python-3.9+-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Golang-1.19.4-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Python-3.11.1+-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Golang-1.19.5-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-1.0-brightgreen?style=flat&labelColor=ffffff&logo=GNU%20Bash&logoColor=4EAA25"/>
-<img src="https://img.shields.io/badge/PowerShell-7.2.3-brightgreen?style=flat&labelColor=ffffff&logo=PowerShell&logoColor=5391FE"/>
+<img src="https://img.shields.io/badge/PowerShell-7.3.1-brightgreen?style=flat&labelColor=ffffff&logo=PowerShell&logoColor=5391FE"/>
 <img src="https://img.shields.io/badge/JavaScript-ES2015-brightgreen?style=flat&labelColor=ffffff&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Lua-5.3-brightgreen?style=flat&labelColor=ffffff&logo=Lua&logoColor=2C2D72"/>
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/Maven-3.8.4-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20Maven&logoColor=C71A36" />
-<img src="https://img.shields.io/badge/Gradle-7.4.1-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
+<img src="https://img.shields.io/badge/Gradle-7.6-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
 <img src="https://img.shields.io/badge/NPM-6.14.6-brightgreen?style=flat&labelColor=ffffff&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-12.18.3-brightgreen?style=flat&labelColor=ffffff&logo=Node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/Vue.js-3-brightgreen?style=flat&labelColor=ffffff&logo=Vue.js&logoColor=4FC08D" />
 </p>
 
-## 🤞 LeetCode
-
-[![LeetCode user thesixonenine](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthesixonenine&logo=leetcode&logoColor=yellow)](https://leetcode.com/thesixonenine/)
 
 ## 💻 System
 
