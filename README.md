@@ -67,7 +67,6 @@ Hosted in [GitHub Pages](https://thesixonenine.github.io)
 <img src="https://img.shields.io/badge/Docker-22.10.7-brightgreen?style=flat&labelColor=ffffff&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Nginx-1.20.2-brightgreen?style=flat&labelColor=ffffff&logo=NGINX&logoColor=009639"/>
 <img src="https://img.shields.io/badge/Git-2.34.1-brightgreen?style=flat&labelColor=ffffff&logo=Git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Chocolatey-1.1.0-brightgreen?style=flat&labelColor=ffffff&logo=Chocolatey&logoColor=80B5E3"/>
 <img src="https://img.shields.io/badge/Scoop-1.0-brightgreen?style=flat&labelColor=ffffff"/>
 <img src="https://img.shields.io/badge/HyperV-10.0-brightgreen?style=flat&labelColor=ffffff&label=Hyper-V"/>
 </p>
