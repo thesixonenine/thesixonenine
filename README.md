@@ -4,11 +4,9 @@
 
 Hosted in [GitHub Pages](https://thesixonenine.github.io)
 
-<!--
 ## 🎮 Genshin Impact\(^o^)
 
 ![Genshin Impact](https://genshin-card.himiku.com/rand/11629047.png)
--->
 
 ## 🤞 LeetCode
 
@@ -18,19 +16,19 @@ Hosted in [GitHub Pages](https://thesixonenine.github.io)
 ## 👄 Language
 
 <p align="left">
-<img src="https://img.shields.io/badge/Java-7%208%2011%2017-brightgreen?style=flat&labelColor=ffffff&logo=Java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/Python-3.11.2+-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Golang-1.20-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Java-8%2017-brightgreen?style=flat&labelColor=ffffff&logo=Java&logoColor=007396"/>
+<img src="https://img.shields.io/badge/Python-3.11.4+-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Golang-1.21.0-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-1.0-brightgreen?style=flat&labelColor=ffffff&logo=GNU%20Bash&logoColor=4EAA25"/>
-<img src="https://img.shields.io/badge/PowerShell-7.3.4-brightgreen?style=flat&labelColor=ffffff&logo=PowerShell&logoColor=5391FE"/>
+<img src="https://img.shields.io/badge/PowerShell-7.3.6-brightgreen?style=flat&labelColor=ffffff&logo=PowerShell&logoColor=5391FE"/>
 <img src="https://img.shields.io/badge/JavaScript-ES2015-brightgreen?style=flat&labelColor=ffffff&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Lua-5.3-brightgreen?style=flat&labelColor=ffffff&logo=Lua&logoColor=2C2D72"/>
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/Maven-3.8.4-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20Maven&logoColor=C71A36" />
-<img src="https://img.shields.io/badge/Gradle-8.0.2-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
-<img src="https://img.shields.io/badge/NPM-6.14.6-brightgreen?style=flat&labelColor=ffffff&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-12.18.3-brightgreen?style=flat&labelColor=ffffff&logo=Node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Maven-3.9.4-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20Maven&logoColor=C71A36" />
+<img src="https://img.shields.io/badge/Gradle-8.3-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
+<img src="https://img.shields.io/badge/NPM-9.6.7-brightgreen?style=flat&labelColor=ffffff&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-18.17.1-brightgreen?style=flat&labelColor=ffffff&logo=Node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/Vue.js-3-brightgreen?style=flat&labelColor=ffffff&logo=Vue.js&logoColor=4FC08D" />
 </p>
 
@@ -92,8 +90,6 @@ Hosted in [GitHub Pages](https://thesixonenine.github.io)
 <a href="https://leetcode.cn" target="_blank"><img src="https://img.shields.io/badge/leetcode--0?style=social&label=leetcode"/></a>
 <a href="https://sspai.com" target="_blank"><img src="https://img.shields.io/badge/sspai--0?style=social&label=SSPai"/></a>
 <a href="https://docs.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/microsoft%20docs--0?style=social&label=microsoft%20docs"/></a>
-<!--<a href="https://developer.ibm.com" target="_blank"><img src="https://img.shields.io/badge/IBM--0?style=social&label=IBM"/></a> -->
-<!--<a href="http://www.ityouknow.com" target="_blank"><img src="https://img.shields.io/badge/ityouknow--0?style=social&label=ityouknow"/></a> -->
 <a href="https://tech.meituan.com" target="_blank"><img src="https://img.shields.io/badge/meituan--0?style=social&label=meituan"/></a>
 <a href="https://bilibili.com" target="_blank"><img src="https://img.shields.io/badge/bilibili--0?style=social&label=bilibili"/></a>
 
@@ -119,7 +115,7 @@ Windows
 <p align="left">
 <img src="https://img.shields.io/badge/Android%20Studio-4.1.3-brightgreen?style=flat&labelColor=ffffff&logo=Android%20Studio&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/Apache%20JMeter-5.3-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20JMeter&logoColor=D22128"/>
-<img src="https://img.shields.io/badge/Hugo-0.80.0-brightgreen?style=flat&labelColor=ffffff&logo=Hugo&logoColor=FF4088"/>
+<img src="https://img.shields.io/badge/Hugo-0.117.0-brightgreen?style=flat&labelColor=ffffff&logo=Hugo&logoColor=FF4088"/>
 <img src="https://img.shields.io/badge/OBS%20Studio-27.1.3-brightgreen?style=flat&labelColor=ffffff&logo=OBS%20Studio&logoColor=302E31"/>
 <img src="https://img.shields.io/badge/aria2-1.35.0-brightgreen?style=flat&labelColor=ffffff"/>
 <img src="https://img.shields.io/badge/Bandizip-7.12-brightgreen?style=flat&labelColor=ffffff"/>
