@@ -57,10 +57,10 @@ Hosted in [GitHub Pages](https://thesixonenine.github.io)
 <img src="https://img.shields.io/badge/Google%20Chrome-Browser-4479A1?style=flat&logo=Google%20Chrome&labelColor=ffffff&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/Microsoft%20Edge-Browser-4479A1?style=flat&logo=Microsoft%20Edge&labelColor=ffffff&logoColor=0078D7"/>
 <img src="https://img.shields.io/badge/Microsoft%20OneNote-NoteBook-4479A1?style=flat&logo=Microsoft%20OneNote&labelColor=ffffff&logoColor=7719AA"/>
-<img src="https://img.shields.io/badge/Microsoft%20Outlook-Mail%20Client-4479A1?style=flat&logo=Microsoft%20Outlook&labelColor=ffffff&logoColor=0078D4"/>
+<!-- <img src="https://img.shields.io/badge/Microsoft%20Outlook-Mail%20Client-4479A1?style=flat&logo=Microsoft%20Outlook&labelColor=ffffff&logoColor=0078D4"/> -->
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-Editor-4479A1?style=flat&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/Rime-Input%20Method-4479A1?style=flat&labelColor=ffffff&logo=Rime-Input%20Method"/>
-<img src="https://img.shields.io/badge/Sourcetree-3.4.6-brightgreen?style=flat&labelColor=ffffff&logo=Sourcetree&logoColor=0052CC"/>
+<!-- <img src="https://img.shields.io/badge/Sourcetree-3.4.6-brightgreen?style=flat&labelColor=ffffff&logo=Sourcetree&logoColor=0052CC"/> -->
 <img src="https://img.shields.io/badge/FileZilla-3.59.0-brightgreen?style=flat&labelColor=ffffff&logo=FileZilla&logoColor=BF0000"/>
 <img src="https://img.shields.io/badge/Notepad++-7.8.8-brightgreen?style=flat&labelColor=ffffff&logo=Notepad++&logoColor=90E59A"/>
 <img src="https://img.shields.io/badge/Redis-5.0-brightgreen?style=flat&labelColor=ffffff&logo=Redis&logoColor=DC382D"/>
@@ -92,8 +92,8 @@ Hosted in [GitHub Pages](https://thesixonenine.github.io)
 <a href="https://leetcode.cn" target="_blank"><img src="https://img.shields.io/badge/leetcode--0?style=social&label=leetcode"/></a>
 <a href="https://sspai.com" target="_blank"><img src="https://img.shields.io/badge/sspai--0?style=social&label=SSPai"/></a>
 <a href="https://docs.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/microsoft%20docs--0?style=social&label=microsoft%20docs"/></a>
-<a href="https://developer.ibm.com" target="_blank"><img src="https://img.shields.io/badge/IBM--0?style=social&label=IBM"/></a>
-<a href="http://www.ityouknow.com" target="_blank"><img src="https://img.shields.io/badge/ityouknow--0?style=social&label=ityouknow"/></a>
+<!--<a href="https://developer.ibm.com" target="_blank"><img src="https://img.shields.io/badge/IBM--0?style=social&label=IBM"/></a> -->
+<!--<a href="http://www.ityouknow.com" target="_blank"><img src="https://img.shields.io/badge/ityouknow--0?style=social&label=ityouknow"/></a> -->
 <a href="https://tech.meituan.com" target="_blank"><img src="https://img.shields.io/badge/meituan--0?style=social&label=meituan"/></a>
 <a href="https://bilibili.com" target="_blank"><img src="https://img.shields.io/badge/bilibili--0?style=social&label=bilibili"/></a>
 
