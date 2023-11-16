@@ -18,15 +18,15 @@ Hosted in [GitHub Pages](https://thesixonenine.github.io)
 <p align="left">
 <img src="https://img.shields.io/badge/Java-8%2017-brightgreen?style=flat&labelColor=ffffff&logo=Java&logoColor=007396"/>
 <img src="https://img.shields.io/badge/Python-3.11.4+-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Golang-1.21.0-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Golang-1.21.4-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-1.0-brightgreen?style=flat&labelColor=ffffff&logo=GNU%20Bash&logoColor=4EAA25"/>
 <img src="https://img.shields.io/badge/PowerShell-7.3.6-brightgreen?style=flat&labelColor=ffffff&logo=PowerShell&logoColor=5391FE"/>
 <img src="https://img.shields.io/badge/JavaScript-ES2015-brightgreen?style=flat&labelColor=ffffff&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Lua-5.3-brightgreen?style=flat&labelColor=ffffff&logo=Lua&logoColor=2C2D72"/>
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/Maven-3.9.4-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20Maven&logoColor=C71A36" />
-<img src="https://img.shields.io/badge/Gradle-8.3-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
+<img src="https://img.shields.io/badge/Maven-3.9.5-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20Maven&logoColor=C71A36" />
+<img src="https://img.shields.io/badge/Gradle-8.4-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
 <img src="https://img.shields.io/badge/NPM-9.6.7-brightgreen?style=flat&labelColor=ffffff&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-18.17.1-brightgreen?style=flat&labelColor=ffffff&logo=Node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/Vue.js-3-brightgreen?style=flat&labelColor=ffffff&logo=Vue.js&logoColor=4FC08D" />
