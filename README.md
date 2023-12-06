@@ -2,7 +2,7 @@
 
 ## 📓 Blog
 
-Hosted in [GitHub Pages](https://thesixonenine.github.io)
+Hosted in [Cloudflare](https://blog.thesixonenine.site)
 
 ## 🎮 Genshin Impact\(^o^)
 
