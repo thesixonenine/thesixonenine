@@ -17,8 +17,9 @@ Hosted in [Cloudflare](https://blog.thesixonenine.site)
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-8%2017-brightgreen?style=flat&labelColor=ffffff&logo=Java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/Python-3.12.0-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Golang-1.22.0-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Kotlin-2-brightgreen?style=flat&labelColor=ffffff&logo=Kotlin&logoColor=007396"/>
+<img src="https://img.shields.io/badge/Python-3.12.0-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-1.0-brightgreen?style=flat&labelColor=ffffff&logo=GNU%20Bash&logoColor=4EAA25"/>
 <img src="https://img.shields.io/badge/PowerShell-7.4.1-brightgreen?style=flat&labelColor=ffffff&logo=PowerShell&logoColor=5391FE"/>
 <img src="https://img.shields.io/badge/JavaScript-ES2015-brightgreen?style=flat&labelColor=ffffff&logo=JavaScript&logoColor=F7DF1E"/>
