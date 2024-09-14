@@ -26,10 +26,10 @@ Hosted in [Cloudflare](https://blog.thesixonenine.site)
 <img src="https://img.shields.io/badge/Lua-5.3-brightgreen?style=flat&labelColor=ffffff&logo=Lua&logoColor=2C2D72"/>
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/Maven-3.9.5-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20Maven&logoColor=C71A36" />
-<img src="https://img.shields.io/badge/Gradle-8.6-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
-<img src="https://img.shields.io/badge/NPM-10.2.4-brightgreen?style=flat&labelColor=ffffff&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-20.11.1-brightgreen?style=flat&labelColor=ffffff&logo=Node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Maven-3.9.8-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20Maven&logoColor=C71A36" />
+<img src="https://img.shields.io/badge/Gradle-8.10-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
+<img src="https://img.shields.io/badge/PNPM-9.1.3-brightgreen?style=flat&labelColor=ffffff&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-20.14.0-brightgreen?style=flat&labelColor=ffffff&logo=Node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/Vue.js-3-brightgreen?style=flat&labelColor=ffffff&logo=Vue.js&logoColor=4FC08D" />
 </p>
 
@@ -63,7 +63,7 @@ Hosted in [Cloudflare](https://blog.thesixonenine.site)
 <img src="https://img.shields.io/badge/FileZilla-3.59.0-brightgreen?style=flat&labelColor=ffffff&logo=FileZilla&logoColor=BF0000"/>
 <img src="https://img.shields.io/badge/Notepad++-7.8.8-brightgreen?style=flat&labelColor=ffffff&logo=Notepad++&logoColor=90E59A"/>
 <img src="https://img.shields.io/badge/Redis-5.0-brightgreen?style=flat&labelColor=ffffff&logo=Redis&logoColor=DC382D"/>
-<img src="https://img.shields.io/badge/Docker-22.10.7-brightgreen?style=flat&labelColor=ffffff&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Docker%20Desktop-27.2.0-brightgreen?style=flat&labelColor=ffffff&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Nginx-1.20.2-brightgreen?style=flat&labelColor=ffffff&logo=NGINX&logoColor=009639"/>
 <img src="https://img.shields.io/badge/Git-2.34.1-brightgreen?style=flat&labelColor=ffffff&logo=Git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/Scoop-1.0-brightgreen?style=flat&labelColor=ffffff"/>
