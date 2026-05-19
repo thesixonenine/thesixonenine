@@ -99,7 +99,7 @@ Hosted in [Cloudflare](https://blog.thesixonenine.site)
 
 <a href="mailto:thesixonenine@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Outlook-ffffff.svg?&style=flat&logo=Microsoft%20Outlook&logoColor=0078D4" alt="Microsoft Outlook"></a>
 
-
+<!--
 ## 😘 Follow me on other platforms
 
 <a href="https://stackoverflow.com/users/8054229/simple?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-ffffff.svg?&style=flat&logo=Stack%20Overflow&logoColor=F58025" alt="StackOverflow"></a>
@@ -107,7 +107,7 @@ Hosted in [Cloudflare](https://blog.thesixonenine.site)
 <a href="https://www.cnblogs.com/thesixonenine" target="_blank"><img src="https://img.shields.io/badge/CNBlogs-ffffff.svg?&style=flat" alt="CNBlogs"></a>
 <a href="https://juejin.cn/user/967206765338199" target="_blank"><img src="https://img.shields.io/badge/juejin-ffffff.svg?&style=flat" alt="juejin"></a>
 <a href="https://www.jianshu.com/u/3f5cd5994007" target="_blank"><img src="https://img.shields.io/badge/jianshu-ffffff.svg?&style=flat" alt="jianshu"></a>
-
+-->
 
 ## 🛠 Software
 
@@ -157,10 +157,11 @@ Android
 
 ## 😅 GitHub Stats
 
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thesixonenine&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesixonenine&layout=compact&hide=javascript,html,Stylus,Nunjucks)
-<!--
+
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=daily-py&show_owner=true)
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=get_weibo_hot)
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=mmall)
