@@ -16,20 +16,20 @@ Hosted in [Cloudflare](https://blog.thesixonenine.site)
 ## 👄 Language
 
 <p align="left">
-<img src="https://img.shields.io/badge/Java-8%2017-brightgreen?style=flat&labelColor=ffffff&logo=Java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/Golang-1.22.0-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Java-8%2021-brightgreen?style=flat&labelColor=ffffff&logo=Java&logoColor=007396"/>
+<img src="https://img.shields.io/badge/Golang-1.26.3-brightgreen?style=flat&labelColor=ffffff&logo=Go&logoColor=00ADD8"/>
 <img src="https://img.shields.io/badge/Kotlin-2-brightgreen?style=flat&labelColor=ffffff&logo=Kotlin&logoColor=007396"/>
-<img src="https://img.shields.io/badge/Python-3.12.0-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-3.14.6-brightgreen?style=flat&labelColor=ffffff&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-1.0-brightgreen?style=flat&labelColor=ffffff&logo=GNU%20Bash&logoColor=4EAA25"/>
-<img src="https://img.shields.io/badge/PowerShell-7.4.1-brightgreen?style=flat&labelColor=ffffff&logo=PowerShell&logoColor=5391FE"/>
+<img src="https://img.shields.io/badge/PowerShell-7.5.0-brightgreen?style=flat&labelColor=ffffff&logo=PowerShell&logoColor=5391FE"/>
 <img src="https://img.shields.io/badge/JavaScript-ES2015-brightgreen?style=flat&labelColor=ffffff&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Lua-5.3-brightgreen?style=flat&labelColor=ffffff&logo=Lua&logoColor=2C2D72"/>
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/Maven-3.9.8-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20Maven&logoColor=C71A36" />
-<img src="https://img.shields.io/badge/Gradle-8.10-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
-<img src="https://img.shields.io/badge/PNPM-9.1.3-brightgreen?style=flat&labelColor=ffffff&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-20.14.0-brightgreen?style=flat&labelColor=ffffff&logo=Node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Maven-3.9.16-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20Maven&logoColor=C71A36" />
+<img src="https://img.shields.io/badge/Gradle-9.6.1-brightgreen?style=flat&labelColor=ffffff&logo=Gradle&logoColor=02303A" />
+<img src="https://img.shields.io/badge/PNPM-10.33.0-brightgreen?style=flat&labelColor=ffffff&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-24.13.0-brightgreen?style=flat&labelColor=ffffff&logo=Node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/Vue.js-3-brightgreen?style=flat&labelColor=ffffff&logo=Vue.js&logoColor=4FC08D" />
 </p>
 
@@ -41,6 +41,7 @@ Hosted in [Cloudflare](https://blog.thesixonenine.site)
 <img src="https://img.shields.io/badge/Windows%20XP/7/10--0?style=social&logo=Windows&logoColor=0078D6"/>
 <img src="https://img.shields.io/badge/MacOS--0?style=social&logo=Apple&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Arch%20Linux--0?style=social&logo=Arch%20Linux&logoColor=1793D1"/>
+<img src="https://img.shields.io/badge/NixOS--0?style=social&logo=nixos&logoColor=5277C3"/>
 <img src="https://img.shields.io/badge/elementaryOS--0?style=social&logo=elementary&logoColor=64BAFF"/>
 <img src="https://img.shields.io/badge/CentOS--0?style=social&logo=CentOS&logoColor=262577"/>
 <img src="https://img.shields.io/badge/Ubuntu--0?style=social&logo=Ubuntu&logoColor=E95420"/>
@@ -116,7 +117,7 @@ Windows
 <p align="left">
 <img src="https://img.shields.io/badge/Android%20Studio-4.1.3-brightgreen?style=flat&labelColor=ffffff&logo=Android%20Studio&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/Apache%20JMeter-5.3-brightgreen?style=flat&labelColor=ffffff&logo=Apache%20JMeter&logoColor=D22128"/>
-<img src="https://img.shields.io/badge/Hugo-0.117.0-brightgreen?style=flat&labelColor=ffffff&logo=Hugo&logoColor=FF4088"/>
+<img src="https://img.shields.io/badge/Hugo-0.164.0-brightgreen?style=flat&labelColor=ffffff&logo=Hugo&logoColor=FF4088"/>
 <img src="https://img.shields.io/badge/OBS%20Studio-27.1.3-brightgreen?style=flat&labelColor=ffffff&logo=OBS%20Studio&logoColor=302E31"/>
 <img src="https://img.shields.io/badge/aria2-1.35.0-brightgreen?style=flat&labelColor=ffffff"/>
 <img src="https://img.shields.io/badge/Bandizip-7.12-brightgreen?style=flat&labelColor=ffffff"/>
@@ -126,8 +127,8 @@ Windows
 <img src="https://img.shields.io/badge/FanControl-V93-brightgreen?style=flat&labelColor=ffffff"/>
 <img src="https://img.shields.io/badge/Fiddler-5.0-brightgreen?style=flat&labelColor=ffffff"/>
 <img src="https://img.shields.io/badge/MemoryAnalyzer-1.11.0-brightgreen?style=flat&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/PowerToys-0.58.0-brightgreen?style=flat&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/Snipaste-2.3.0-brightgreen?style=flat&labelColor=ffffff"/>
+<img src="https://img.shields.io/badge/PowerToys-0.100.2-brightgreen?style=flat&labelColor=ffffff"/>
+<img src="https://img.shields.io/badge/Snipaste-2.11.3-brightgreen?style=flat&labelColor=ffffff"/>
 
 <img src="https://img.shields.io/badge/Scrcpy--0?style=social"/>
 <img src="https://img.shields.io/badge/RDM--0?style=social"/>
