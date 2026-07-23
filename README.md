@@ -155,8 +155,10 @@ Android
 
 ![thesixonenine](https://count.getloli.com/get/@:thesixonenine)
 
-
+<!--
 ## 😅 GitHub Stats
+-->
+
 
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thesixonenine&show_icons=true)
@@ -169,7 +171,9 @@ Android
 ![Main Maintenance](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=thesixonenine&repo=619)
 -->
 
+<!--
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesixonenine&theme=vue)
+-->
 
 
 <!--
